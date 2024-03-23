@@ -1,2 +1,3 @@
 # Desafio1-Resolucao
-Este é um desafio feito pela Escola DNC para o curso de tecnologia. Uma landing page sobre arquitetura.
+Link do site disponibilizado; https://desafio-curso-tecnologia-dnc.netlify.app/
+Link da planilha de registro de informação; https://docs.google.com/spreadsheets/d/1KOBaGJy8DYF2t0L_tvWzWmFaSTHRurLrjP-qoc9-sO4/edit?usp=sharing
